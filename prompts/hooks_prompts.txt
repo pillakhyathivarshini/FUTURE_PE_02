@@ -1,0 +1,11 @@
+Prompt: Generate 5 catchy hooks for a café UGC advertisement.
+
+Brand: Café Serene
+
+Tone:
+cozy
+calming
+realistic
+social-media friendly
+engaging
+modern café vibes
